@@ -1,0 +1,14 @@
+basic commands :
+git init <-- to initialize empty repo
+git status <-- check for tracked files
+git add sample.txt <-- to add file into staging area
+git status
+git commit -m "new file" <-- commit file into local git repo
+
+for configuration :
+------------------------------------------------------
+git config --global user.email "github mailID"
+git config --global user.name "github username"
+
+check connection with repository
+---------------------------------------------------------
